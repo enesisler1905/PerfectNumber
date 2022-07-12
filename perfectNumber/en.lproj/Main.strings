@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "label"; ObjectID = "129-Vi-vA7"; */
+"129-Vi-vA7.text" = "label";
+
+/* Class = "UIButton"; configuration.title = "Calculate"; ObjectID = "n3K-42-njS"; */
+"n3K-42-njS.configuration.title" = "Calculate";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "n3K-42-njS"; */
+"n3K-42-njS.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Number"; ObjectID = "u28-3k-oEV"; */
+"u28-3k-oEV.placeholder" = "Number";
